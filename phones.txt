@@ -4,3 +4,5 @@
 3) android 10
 4) android 11
 5) xiomi 23
+6) Samsung s20
+7) Samsung 23

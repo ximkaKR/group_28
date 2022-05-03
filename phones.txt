@@ -3,4 +3,4 @@
 2) iphone 12
 3) android 10
 4) android 11
-
+5) xiomi 23

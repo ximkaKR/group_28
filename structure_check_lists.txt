@@ -1,0 +1,9 @@
+Build   (1.0)
+Enviroment (Windows 10)
+Test date  (08.05-11.05.21)
+Tester     (Khimanych)
+
+
+Test type		Checking		Result
+
+
